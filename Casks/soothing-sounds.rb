@@ -1,6 +1,6 @@
 cask "soothing-sounds" do
-  version "1.0.1"
-  sha256 "87a4f0e1c3e7b8c4e96ae2f06cf6271bd949db17c10d2e0fe019247454c97dc6"
+  version "1.0.2"
+  sha256 "8579b674bd2a221ed01987e4ec8f9a1d4ccbc57ef9743612aac3c1a28245ff1c"
 
   url "https://github.com/drinkin-park/soothing-sounds/releases/download/v#{version}/Soothing-Sounds.zip"
   name "Soothing Sounds"
